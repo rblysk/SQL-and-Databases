@@ -79,4 +79,6 @@ Can you provide any feedback on how to make this query be easier to debug/read?
 **LEFT JOIN** tc-da-1.adwentureworks_db.address as address on vendor_address.VendorId = d.VendorId
 
 -----
-**THE PROJECT:** https://docs.google.com/spreadsheets/d/1lofwqYVFQgZN3ezRz-lHOtCpoZYSjiK0t-CUoq4nRok/edit#gid=1370522878
+**THE PROJECT:**
+
+https://docs.google.com/spreadsheets/d/1lofwqYVFQgZN3ezRz-lHOtCpoZYSjiK0t-CUoq4nRok/edit#gid=1370522878
